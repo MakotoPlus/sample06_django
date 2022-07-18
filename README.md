@@ -1,4 +1,4 @@
 # sample06_docker
 
-## AWS Docker 起動確認プロジェクト
+## AWS S3 Access
 
